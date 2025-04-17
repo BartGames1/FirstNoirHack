@@ -1,6 +1,0 @@
-[package]
-name = "dayOne"
-type = "bin"
-authors = [""]
-
-[dependencies]
